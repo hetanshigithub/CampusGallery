@@ -1,0 +1,10 @@
+References used:
+
+1) Android Developers — Jetpack Compose Basics: Image, Text, Button, Row/Column, Surface, Spacer
+2) Android Developers — Material 3 (MaterialTheme): colorScheme, Typography, Surface usage
+3) Android Developers — Compose Animation: Crossfade (androidx.compose.animation.Crossfade)
+4) Android Developers — LocalConfiguration: smallestScreenWidthDp for responsiveness
+5) Kotlin Language — Data classes and annotations (@DrawableRes)
+6) Material Design Guidelines — Layout, spacing, and typography conventions
+7) ChatGPT (OpenAI) — suggestions for output, Designing
+
